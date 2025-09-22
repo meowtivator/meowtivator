@@ -5,5 +5,5 @@
 
 ---
 ## 📬 Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://meowtivator.github.io/)]([https://soo-vely-dev.tistory.com/](https://meowtivator.github.io/))
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://meowtivator.github.io/)](https://meowtivator.github.io/)]
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:02dosiu@gmail.com)](mailto:02dosiu@gmail.com)
