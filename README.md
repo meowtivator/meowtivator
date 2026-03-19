@@ -1,6 +1,6 @@
 # Meowtivator 😉
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowtivator&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowtivator&hide=stars&show_icons=true&theme=onedark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdev0229)](https://solved.ac/jdev0229/)
 
 ---
