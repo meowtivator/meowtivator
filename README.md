@@ -4,7 +4,6 @@
 
 ## 프로젝트
 
-- [FRAMED](https://github.com/meowtivator/FRAMED)
 - [FishLog](https://github.com/FishLog-project/fishlog_fe)
 - [국민대학교 멋쟁이사자처럼 14기 모집 페이지](https://github.com/LikeLion-at-KMU/14th-Page)
 
